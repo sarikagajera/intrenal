@@ -5,3 +5,5 @@ A smiple list
  - Second Item
  - Third Item
  - Forth Item
+ 
+I'm done with bullet list.
